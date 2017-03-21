@@ -2,15 +2,15 @@
 
 ## WeChat groups
 
-| Name | Members | Purpose | Topic | Comments |
-|:-----|:--------|:--------|:------|:---------|
-| AlphaRust | ZeroWeight, DavidYQY, mcfloundinho, Archer | Teamstyle 17 | Tech |
-| BetaRust  | ZeroWeight, DavidYQY, Crcat, mcfloundinho, Archer, Wboy, liuyuezhangadam, ztTHU | EDC 18 | / | deprecated |
+| Name | Members | Purpose | Topic | GitHub Repo | Comments |
+|:-----|:--------|:--------|:------|:------------|:---------|
+| AlphaRust | ZeroWeight, DavidYQY, mcfloundinho, Archer | Teamstyle 17 | Tech | [StellarCraft](https://github.com/mcfloundinho/StellarCraft)|
+| BetaRust  | ZeroWeight, DavidYQY, Crcat, mcfloundinho, Archer, Wboy, liuyuezhangadam, ztTHU | EDC 18 | / | [A-Heaven_Sent-Chance](https://github.com/ZeroWeight/A-Heaven_Sent-Chance) | deprecated |
 | GammaRust | DavidYQY, ZeroWeight, mcfloundinho | MCM2017 | girlfriends |
-| DeltaRust | ZeroWeight, DavidYQY, Archer, mcfloundinho, God Bright, God Han, Chief Zheng | ChallengeCup 2017 | / | deprecated|
-| EpsilonRust | mcfloundinho, Archer, ZeroWeight, zjh, ZQC, DavidYQY, ts, God Bright | ChallengeCup 2017 | / | deprecated|
-| ZetaRust | ZeroWeight, Kingium, DavidYQY, mcfloundinho, Crcat, Archer, Temple Wu | badminton | maintenance of SKOT |
-| KappaRust | mcfloundinho, DavidYQY, Archer, ZeroWeight | SmartDanmaku | to be determined
+| DeltaRust | ZeroWeight, DavidYQY, Archer, mcfloundinho, God Bright, God Han, Chief Zheng | ChallengeCup 2017 | / | [fit-tracking](https://github.com/mcfloundinho/fit-tracking) | deprecated|
+| EpsilonRust | mcfloundinho, Archer, ZeroWeight, zjh, ZQC, DavidYQY, ts, God Bright | ChallengeCup 2017 | / | [fit-tracking](https://github.com/mcfloundinho/fit-tracking)| deprecated|
+| ZetaRust | ZeroWeight, Kingium, DavidYQY, mcfloundinho, Crcat, Archer, Temple Wu | badminton | maintenance of SKOT | [super-kang-octo-thread](https://github.com/ZeroWeight/super-kang-octo-thread) |
+| KappaRust | mcfloundinho, DavidYQY, Archer, ZeroWeight | ATOM 3.0 | to be determined | [SmartDanmaku](https://github.com/mcfloundinho/SmartDanmaku) |
 
 ## WeChat official account
 
