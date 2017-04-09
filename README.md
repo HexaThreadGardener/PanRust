@@ -9,7 +9,7 @@
 | GammaRust | DavidYQY, ZeroWeight, mcfloundinho | MCM2017 | girlfriends |
 | DeltaRust | ZeroWeight, DavidYQY, Archer, mcfloundinho, God Bright, God Han, Chief Zheng | ChallengeCup 2017 | / | [fit-tracking](https://github.com/mcfloundinho/fit-tracking) | deprecated|
 | EpsilonRust | mcfloundinho, Archer, ZeroWeight, zjh, ZQC, DavidYQY, ts, God Bright | ChallengeCup 2017 | / | [fit-tracking](https://github.com/mcfloundinho/fit-tracking)| deprecated|
-| ZetaRust | ZeroWeight, Kingium, DavidYQY, mcfloundinho, Crcat, Archer, Temple Wu | badminton | maintenance of SKOT | [super-kang-octo-thread](https://github.com/ZeroWeight/super-kang-octo-thread) |
+| ZetaRust | ZeroWeight, Kingium, DavidYQY, mcfloundinho, Crcat, Archer, Temple Wu, God Bright, God Bai | badminton | maintenance of SKOT | [super-kang-octo-thread](https://github.com/ZeroWeight/super-kang-octo-thread) |
 | EtaRust | mcfloundinho, DavidYQY, Archer, ZeroWeight, Kingium, Joking | ATOM 3.0 | to be determined | [SmartDanmaku](https://github.com/mcfloundinho/SmartDanmaku) |
 
 ## WeChat official account
