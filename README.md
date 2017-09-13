@@ -1,4 +1,4 @@
- # PanRust
+# PanRust
 
 ## WeChat groups
 
@@ -17,3 +17,4 @@
 
 AlphabetRust
 Famous work: 《你好哇，尹秋阳》
+Famous accout: [https://github.com/OctoThreadGardener](https://github.com/OctoThreadGardener)
