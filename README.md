@@ -18,4 +18,8 @@
 
 AlphabetRust
 Famous work: 《你好哇，尹秋阳》
-Famous accout: [https://github.com/OctoThreadGardener](https://github.com/OctoThreadGardener)
+
+## GitHub accounts
+
+- [OctoThreadGardener](https://github.com/OctoThreadGardener)
+- [HexaThreadGardener](https://github.com/HexaThreadGardener)
