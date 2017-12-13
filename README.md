@@ -13,6 +13,7 @@
 | ZetaRust | mcfloundinho, DavidYQY, ZeroWeight, Kingium, God Bright, Minister | badminton | Hanging out (e.g. air membrane, tennis, playing with OJ) |  | formerly known as YetAnotherZetaRust |
 | EtaRust | mcfloundinho, DavidYQY, Archer, ZeroWeight, Kingium, Joking | ATOM 3.0 | to be determined | [SmartDanmaku](https://github.com/mcfloundinho/SmartDanmaku) |deprecated |
 | ThetaRust | ABC, ZeroWeight, Archer, mcfloundinho, Temple Wu | Cross - project integrated training | / | [Robo](https://github.com/ZeroWeight/Robo) | |
+| IotaRust | ZeroWeight, Kingium, jianyu_thu93, DavidYQY, mcfloundinho | The exploration of the oral history of reform and opening to the outside world | / | | |
 
 ## WeChat official account
 
